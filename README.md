@@ -1,6 +1,6 @@
 # Project1
 This is some  text
 
-*comment
+*bullet point
 
 this is some more text
